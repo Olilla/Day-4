@@ -1,0 +1,52 @@
+[
+  {
+    "color": "blue",
+    "style": "checkered shirt",
+    "tags": [
+      "plaid",
+      "casual",
+      "short sleeves"
+    ],
+    "product_id": 0
+  },
+  {
+    "color": "blue",
+    "style": "casual",
+    "tags": [
+      "jeans",
+      "denim",
+      "men's fashion"
+    ],
+    "product_id": 1
+  },
+  {
+    "color": "silver",
+    "style": "elegant",
+    "tags": [
+      "watch",
+      "jewelry",
+      "accessory"
+    ],
+    "product_id": 2
+  },
+  {
+    "color": "black",
+    "style": "track pants",
+    "tags": [
+      "sportswear",
+      "casual",
+      "athletic"
+    ],
+    "product_id": 3
+  },
+  {
+    "color": "grey",
+    "style": "polo shirt",
+    "tags": [
+      "casual",
+      "short sleeves",
+      "men's fashion"
+    ],
+    "product_id": 4
+  }
+]
